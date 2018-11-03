@@ -1136,6 +1136,11 @@ Prefab:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114484635703627238, guid: 9ce9836eefeb74b4b9ac9bea2009303a,
+        type: 2}
+      propertyPath: licenseFileName
+      value: license.sig
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9ce9836eefeb74b4b9ac9bea2009303a, type: 2}
   m_IsPrefabParent: 0

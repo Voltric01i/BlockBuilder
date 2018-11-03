@@ -8,3 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Prefab/Scene/AR Mode.unity
     guid: b3bfc267f8b2c944ca4dac0a9e3a4570
+  - enabled: 0
+    path: Assets/Prefab/Scene/a.unity
+    guid: af3990c8eb12e437e8c70c7c3ba47306
+  - enabled: 0
+    path: Assets/SmartAR/Sample(You can remove from project.)/Scenes/sample_landmark.unity
+    guid: 28fa1b557133e4917bafc18204176795
