@@ -18,7 +18,7 @@
 ### For Android
 
 
-### For iOS
+### For iOS
 - UnityからiOSビルド
 - Xcodeからインストール
 
